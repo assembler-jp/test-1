@@ -67,7 +67,7 @@ apache_ant 1.10.1
   http://ant.apache.org/  
 
 apache-commons-codec 1.18.0  
-  Apache License Version 2.0 
+  Apache License Version 2.0  
   http://commons.apache.org/proper/commons-codec/  
 
 apache-commons-collections 4-4.4  
