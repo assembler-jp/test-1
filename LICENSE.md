@@ -3,18 +3,20 @@
 ## ご使用にあたっては、下記事項および各種ライセンスをよくお読みいただきご使用ください。
 
 
-apache_commons_lang 3.13.0 
-  Apache License Version 2.0
-  http://commons.apache.org/proper/commons-lang/
-
-apache_bcel 6.4.1
-  Apache License Version 2.0
-  https://commons.apache.org/proper/commons-bcel/
-
-apache_commons_net 3.6
-  Apache License Version 2.0
-  http://commons.apache.org/proper/commons-net/
-
+apache_commons_lang 3.13.0  
+  Apache License Version 2.0  
+  http://commons.apache.org/proper/commons-lang/  
+  
+  
+apache_bcel 6.4.1  
+  Apache License Version 2.0  
+  https://commons.apache.org/proper/commons-bcel/  
+  
+  
+apache_commons_net 3.6  
+  Apache License Version 2.0  
+  http://commons.apache.org/proper/commons-net/  
+  
 apache-commons-compress 1.22
   Apache License Version 2.0
   https://commons.apache.org/proper/commons-compress/
