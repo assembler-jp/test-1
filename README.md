@@ -1,6 +1,6 @@
 # Project Title
 
-Person Name Finder
+Person Name Finder for Java
 
 ## Description
 
@@ -10,53 +10,28 @@ This is a library for extracting person names using Apache OpenNLP.
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Java 8
+and see the pom.xml
 
-### Installing
+### Examples
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+Searching for Japanese names Example.
 
-### Executing program
+  jp.co.extreme.nlp.test.PersonNameFind_JA
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+Searching for English names Example.
 
-## Help
+  jp.co.extreme.nlp.test.PersonNameFind_EN
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
-## Authors
+## Author
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+takahiro.hayase@extreme.co.jp
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+* 0.9.0
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+see the LICENSE.md file for details

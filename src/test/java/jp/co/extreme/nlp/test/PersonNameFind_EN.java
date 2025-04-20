@@ -5,7 +5,7 @@ import jp.co.extreme.nlp.*;
 
 
 /**
- * Person Name Find (English)
+ * Searching for English names Example.
  *
  * @version 1.00
  * @since
