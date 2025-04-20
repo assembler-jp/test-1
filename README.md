@@ -22,5 +22,11 @@ takahiro.hayase@extreme.co.jp
 ## Version History
 * 0.9.0
 
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
+
 ## License
 see the [LICENSE.md](/LICENSE.md) file for details.
