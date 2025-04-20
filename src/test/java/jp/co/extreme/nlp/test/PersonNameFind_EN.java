@@ -6,10 +6,6 @@ import jp.co.extreme.nlp.*;
 
 /**
  * Searching for English names Example.
- *
- * @version 1.00
- * @since
- * @author 
  */
 public class PersonNameFind_EN extends Object {
 

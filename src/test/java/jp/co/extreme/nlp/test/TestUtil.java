@@ -6,10 +6,6 @@ import jp.co.extreme.nlp.*;
 
 /**
  * TestUtil
- *
- * @version 1.00
- * @since
- * @author 
  */
 public class TestUtil extends Object {
 
