@@ -22,4 +22,4 @@ takahiro.hayase@extreme.co.jp
     * Initial Release
 
 ## License
-see the [LICENSE.md](/LICENSE.md) file for details.
+See the [LICENSE.md](/LICENSE.md) file for details.
