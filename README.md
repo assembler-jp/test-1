@@ -5,12 +5,12 @@ Person Name Finder for Java
 This is a library for extracting person names using Apache OpenNLP.
 
 ## Dependencies
-Java 8 and see the pom.xml
+Java 8 and see the [pom.xml](/pom.xml)
 
 ## Examples
 Searching for Japanese names Example.
 
-&nbsp;jp.co.extreme.nlp.test.PersonNameFind_JA
+&nbsp;[jp.co.extreme.nlp.test.PersonNameFind_JA](/src/test/java/jp/co/extreme/nlp/test/PersonNameFind_JA.java)
 
 Searching for English names Example.
 
@@ -23,6 +23,4 @@ takahiro.hayase@extreme.co.jp
 * 0.9.0
 
 ## License
-see the LICENSE.md file for details.
-
-[LICENSE.md](/LICENSE.md)
+see the [LICENSE.md](/LICENSE.md) file for details.
