@@ -2,7 +2,7 @@
 Person Name Finder for Java
 
 ## Description
-This is a library for extracting person names using Apache OpenNLP.
+This is a library for extracting person names using Apache OpenNLP and Kuromoji.
 
 ## Dependencies
 Java 8 and see the [pom.xml](/pom.xml)
@@ -11,8 +11,8 @@ Java 8 and see the [pom.xml](/pom.xml)
 * Searching for Japanese names Example.
   * [jp.co.extreme.nlp.test.PersonNameFind_JA](/src/test/java/jp/co/extreme/nlp/test/PersonNameFind_JA.java)
 
-*Searching for English names Example.
-  *[jp.co.extreme.nlp.test.PersonNameFind_EN](/src/test/java/jp/co/extreme/nlp/test/PersonNameFind_EN.java)
+* Searching for English names Example.
+  * [jp.co.extreme.nlp.test.PersonNameFind_EN](/src/test/java/jp/co/extreme/nlp/test/PersonNameFind_EN.java)
 
 ## Author
 takahiro.hayase@extreme.co.jp
