@@ -5,8 +5,7 @@ Person Name Finder for Java
 This is a library for extracting person names using Apache OpenNLP.
 
 ## Dependencies
-Java 8  
-and see the pom.xml
+Java 8 and see the pom.xml
 
 ## Examples
 Searching for Japanese names Example.
@@ -25,3 +24,5 @@ takahiro.hayase@extreme.co.jp
 
 ## License
 see the LICENSE.md file for details.
+
+[LICENSE.md](/LICENSE.md)
